@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-api-example",
+  "version": "1.0.0",
+  "description": "Azure Hosting Node Rest Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tools/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "azure"
+  ],
+  "author": "Adrian Moraret",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
